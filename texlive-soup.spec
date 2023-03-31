@@ -1,6 +1,6 @@
 Name:		texlive-soup
 Version:	50815
-Release:	1
+Release:	2
 Summary:	Generate alphabet soup puzzles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soup
