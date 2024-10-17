@@ -3,7 +3,7 @@ Version:	50815
 Release:	2
 Summary:	Generate alphabet soup puzzles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soup
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/soup
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soup.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soup.doc.r%{version}.tar.xz
